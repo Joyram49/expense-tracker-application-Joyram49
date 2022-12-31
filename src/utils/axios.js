@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://lws-server-joy.herokuapp.com/",
+  baseURL: "https://tame-ruby-eel-suit.cyclic.app/",
 });
 
 export default axiosInstance;
